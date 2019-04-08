@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Flickr</string>
+
+    <!-- Menu Items -->
+    <string name="title_photos">Photos</string>
+    <string name="title_favorite">Favorites</string>
+
+    <!-- Error Messages -->
+    <string name="message_no_data_available">No data available</string>
+    <string name="error_network_check">Please check your network connection</string>
+
+    <!-- Shared Preference Keys -->
+    <string name="key_shared_preferences_name">Flickr_Shared_Preference</string>
+</resources>
